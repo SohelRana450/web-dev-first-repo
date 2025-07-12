@@ -62,6 +62,12 @@ header{
    background-color: #4E47FF;
    color: #FFFFFF;
    border: none;
+   transition: 0.9s;
+}
+.first-button:hover{
+    background-color: #a6eb58;
+color: #000;
+font-size: 16px;
 }
 .button-primary{
     padding: 10px 20px;

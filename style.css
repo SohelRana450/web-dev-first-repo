@@ -37,12 +37,13 @@ header{
     font-weight: 900;
     font-size: 34px;
     color: #4E47FF;
+    transition: 0.9s;
 }
 .tag-1:hover{
     color: #636366;
     background-color: aqua;
     border-radius: 10px;
-    padding: 0 5px;
+    padding: 0 15px; 
 }
 
 .first-heading-no1{
@@ -73,6 +74,12 @@ header{
   width: 132px;
   height: 48px;
   border: none;
+  transition: 0.8s;
+}
+.button-primary:hover{
+background-color: #a6eb58;
+color: #000;
+font-size: 20px;
 }
 .first-section{
     display: flex;

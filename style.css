@@ -38,6 +38,12 @@ header{
     font-size: 34px;
     color: #4E47FF;
 }
+.tag-1:hover{
+    color: #636366;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 0 5px;
+}
 
 .first-heading-no1{
     font-size: 60px;
